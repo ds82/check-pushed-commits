@@ -1,6 +1,6 @@
 {
   "name": "@ds82/check-pushed-commits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,7 @@
   "keywords": [],
   "author": "Dennis Sänger <npm16 (a) mail.ds82.de>",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "validate-commit-msg": "2"
   }

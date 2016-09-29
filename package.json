@@ -1,0 +1,18 @@
+{
+  "name": "@ds82/check-pushed-commits",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./check-commit-messages.sh",
+  "keywords": [],
+  "author": "Dennis Sänger <npm16 (a) mail.ds82.de>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "validate-commit-msg": "2"
+  }
+}

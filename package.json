@@ -1,5 +1,5 @@
 {
-  "name": "@ds82/check-pushed-commits",
+  "name": "check-pushed-commits",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
